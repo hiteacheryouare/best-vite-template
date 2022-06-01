@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+    },
+    "lib": [
+        "es3",
+        "dom",
+        "node"
+    ],
+}
