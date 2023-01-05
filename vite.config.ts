@@ -6,6 +6,7 @@ export default {
     },
     build: {
         rollupOptions: {
+            target: "ES2017",
             input: {
                 main: 'index.html'
             },
